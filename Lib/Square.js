@@ -9,5 +9,4 @@ class Square{
 
 }
 
-const square2 = new Square('green')
-console.log(square2.render());
+module.exports = Square

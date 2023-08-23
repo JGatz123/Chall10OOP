@@ -11,4 +11,6 @@ class Triangle{
 
 const triangle = new Triangle('green')
 console.log(triangle.render());
+
+module.exports = Triangle
     

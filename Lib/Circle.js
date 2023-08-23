@@ -8,7 +8,4 @@ class Circle{
 
 }
 
-const circle2 = new Circle('red')
-console.log(circle2.render());
-
 module.exports = Circle
