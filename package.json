@@ -1,0 +1,23 @@
+{
+  "name": "chall10oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JGatz123/Chall10OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JGatz123/Chall10OOP/issues"
+  },
+  "homepage": "https://github.com/JGatz123/Chall10OOP#readme",
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}
