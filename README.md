@@ -17,6 +17,6 @@ This application requires installation of VS Code and any software that allows t
 ![](./Assets/rmeimgs/oop5.png)
 
 ### After the successful generation of the logo the user will be able to open the SVG file and view their logo.
-![](./Assets/rmeimgs/6.png)
+![](./Assets/rmeimgs/oop6.png)
 
 MIT License
